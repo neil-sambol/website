@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3363e7c0-4b83-4e23-b103-82997969da15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/articles/hamster.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/articles/hamster.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/articles/sample_size.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/articles/sample_size.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/articles/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/articles/work.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-0.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-0.0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-1.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-1.0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-1.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-2.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-2.0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-3.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-3.0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-4.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-4.0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/artifacts/portfolio-single-4.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html/reading/unicorn.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html/reading/unicorn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +41,7 @@
       <updated>1600368312110</updated>
       <workItem from="1600368313533" duration="1752000" />
       <workItem from="1600377210207" duration="1215000" />
+      <workItem from="1600379443739" duration="39000" />
     </task>
     <servers />
   </component>
