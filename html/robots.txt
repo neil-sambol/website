@@ -1,0 +1,6 @@
+# robots.txt for http://www.neilsambol.com/
+
+User-agent: *
+Disallow: 
+
+# don't disallow anything - entire static site is scanable.
